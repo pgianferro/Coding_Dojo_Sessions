@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "nodemon": "^2.0.19",
     "parcel-bundler": "^1.6.1"
   },
   "devDependencies": {
