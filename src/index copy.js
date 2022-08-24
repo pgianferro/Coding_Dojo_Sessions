@@ -16,4 +16,4 @@ function addPG(string) {
   return String(sum);
 }
 
-console.log(addPG("0.5,49.5,-50,25000"));
+console.log(addPG("0.5,49.5,-50,1000"));
