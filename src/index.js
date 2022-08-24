@@ -17,8 +17,6 @@
 //2. Turn Array of strings to numbers
 //3. Add all the numbers within the Array
 
-// let string = "1,2,3"
-
 function addPG(string) {
   let array = string.split(",");
   let arrOfNum = array.map((strings) => {
